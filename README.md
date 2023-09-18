@@ -32,7 +32,7 @@ Open bash inside app_v4
 
 >>git clone https://github.com/NikosDouras/Laravel_api.git
 
-Install Dependencies: >>composer install
+>>composer install
 
 >>cd app/v4
 >>php artisan migrate
