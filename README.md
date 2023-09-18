@@ -22,16 +22,16 @@ mysql (adjust the settings in the app\.env file, for now port is set to 3306), o
 
 Open bash inside app_v4
 
-git clone https://github.com/NikosDouras/Laravel_api.git
+<<git clone https://github.com/NikosDouras/Laravel_api.git>>
 
-Install Dependencies: composer install
+Install Dependencies: <<composer install>>
 
-php artisan migrate 
+<<php artisan migrate>> 
 
 Optional
-php artisan tinker 				 //optional Creating dummy data for the 
-User::factory()->times(25)->create();		//optional tables. User emails are random 
-Game::factory()->times(100)->create();	//optional but the password for every user     
-                                                                       // is “password”.
+<<php artisan tinker>> 				            //optional Creating dummy data for the 
+<<User::factory()->times(25)->create();>>		//optional tables. User emails are random 
+<<Game::factory()->times(100)->create();>>	    //optional but the password for every user     
+                                                // is “password”.
 
-php artisan serve
+<<php artisan serve>>
