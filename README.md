@@ -13,7 +13,7 @@ Using the app: https://docs.google.com/document/d/1gcQb5Uex88CRybqyqSHMy07ZeIERc
 
 Problems: https://docs.google.com/document/d/1v7b-cPRYXJtRw6gu27rQFuPnqmUywnHmOviy1N857n0/edit?usp=sharing
 
-Probably the person that will try to run the app will face some problems that I faced myself when trying to run the app on another machine. that's due to compatibility problems. I created the app in an environment with PHP 8.0.28, Composer 2.6.2, Laravel Framework 9.52.15, which is probably what's causing the issue. However maybe the person that will try to run the app will be able to overcome the problems and run it successfully.
+Probably the person that will try to run the app will face some problems that I faced myself when trying to run the app on another machine. That's due to compatibility problems. I created the app in an environment with PHP 8.0.28, Composer 2.6.2, Laravel Framework 9.52.15, which is probably what's causing the issue. However maybe the person that will try to run the app will be able to overcome the problems and run it successfully.
 
 ---Using the app---
 
