@@ -26,7 +26,7 @@ Open bash inside app_v4
 
 <<git clone https://github.com/NikosDouras/Laravel_api.git>>
 
-Install Dependencies: >>composer install
+Install Dependencies: composer install
 
 <<php artisan migrate>> 
 
