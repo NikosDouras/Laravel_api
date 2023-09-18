@@ -20,7 +20,7 @@ You should have:
 PHP 8.0.28
 Composer 2.6.2
 Laravel Framework 9.52.15
-mysql (adjust the settings in the app\.env file, for now port is set to 3306), or any other DB, just make sure to change the settings.
+mysql (adjust the settings in the app\.env file, for now port is set to 3306), or any other DB management system, just make sure to change the settings.
 
 Open bash inside app_v4
 
