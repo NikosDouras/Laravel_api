@@ -39,7 +39,8 @@ Install Dependencies: >>composer install
 
 Optional   //optional Creating dummy data for the tables. User emails are random but the password for every user is “password”.
 >>php artisan tinker			           
->>User::factory()->times(25)->create();	
+>>User::factory()->times(25)->create();
+
 >>Game::factory()->times(100)->create();    
                                                 
 
