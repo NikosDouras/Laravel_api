@@ -38,6 +38,7 @@ Install Dependencies: >>composer install
 >>php artisan migrate
 
 Optional   //optional Creating dummy data for the tables. User emails are random but the password for every user is “password”.
+
 Optional  >>php artisan tinker	
 
 Optional  >>User::factory()->times(25)->create();
