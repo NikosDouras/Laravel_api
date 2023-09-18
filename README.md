@@ -1,4 +1,6 @@
-Finished the project (without the bonus tasks 13,14):     https://github.com/NikosDouras/Laravel_api
+Finished the project (without the bonus tasks 13,14):     
+
+The app is running correctly on my local machine. I use postman for testing.
 
 This is the postman collection link: 
 https://blue-star-586314.postman.co/workspace/New-Team-Workspace~f87bc7d1-a662-4940-9823-c0c57ad79d6b/collection/29416353-7d308c1a-eb3e-4a22-a5da-a190bf9eae22?action=share&creator=29416353
